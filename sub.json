@@ -146,6 +146,66 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "ibox_360zy",
+      "name": "iBox·360资源",
+      "type": 1,
+      "api": "https://360zyzz.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "实测 74800 片 / 分类可用 / 首选 m3u8 直链"
+    },
+    {
+      "key": "ibox_dd",
+      "name": "iBox·DD多线路",
+      "type": 1,
+      "api": "https://dd.jzcbed.xyz/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "实测 137891 片 / 6 条线路 / 首选 m3u8 直链"
+    },
+    {
+      "key": "ibox_ry",
+      "name": "iBox·如意资源",
+      "type": 1,
+      "api": "https://cj.rytvapi.com/api.php/provide/vod/from/rym3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "实测 89757 片 / 分类可用 / 首选 m3u8 直链"
+    },
+    {
+      "key": "ibox_ffzy",
+      "name": "iBox·非凡影视",
+      "type": 1,
+      "api": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "实测 99066 片 / 分类可用 / 首选 m3u8 直链"
+    },
+    {
+      "key": "ibox_dytt",
+      "name": "iBox·电影天堂",
+      "type": 1,
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "实测 85079 片 / 分类可用 / 与内置源同域名，可互为备用"
+    },
+    {
+      "key": "ibox_mb",
+      "name": "iBox·MB采集",
+      "type": 1,
+      "api": "http://124.222.30.115/mb/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "实测 90396 片 / 分类接口返回空 / 前两条线路是加密串，靠自动换源跳到第 3 条 lzm3u8 直链"
     }
   ],
   "lives": [
