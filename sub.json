@@ -227,6 +227,50 @@
       "name": "freejson",
       "type": 0,
       "url": "https://h5.freejson.xyz/player/?url="
+    },
+    {
+      "name": "非凡去广告",
+      "type": 1,
+      "url": "https://api.hxmp4.com/api/parsing.Fjx/index?url=",
+      "play_keys": [
+        "ffm3u8"
+      ],
+      "header": {
+        "User-Agent": "okhttp/4.9.0"
+      }
+    },
+    {
+      "name": "优质去广告解析",
+      "type": 1,
+      "url": "https://api.hxmp4.com/api/parsing.Yzjx/index?url=",
+      "play_keys": [
+        "1080zyk"
+      ],
+      "header": {
+        "User-Agent": "okhttp/4.9.0"
+      }
+    },
+    {
+      "name": "人人视频解析",
+      "type": 1,
+      "url": "https://parsing.hxmp4.com/api/parsing.Rrmj/index?url=",
+      "play_keys": [
+        "selfrrmj"
+      ],
+      "header": {
+        "User-Agent": "okhttp/4.9.0"
+      }
+    },
+    {
+      "name": "毒舌电影",
+      "type": 1,
+      "url": "https://parsing.hxmp4.com/api/parsing.Dushe/index?url=",
+      "play_keys": [
+        "selfdushe"
+      ],
+      "header": {
+        "User-Agent": "okhttp/4.9.0"
+      }
     }
   ],
   "flags": [
